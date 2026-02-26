@@ -29,7 +29,7 @@ Passionnée par l'intersection entre la stratégie marketing et l'analyse de don
 
 Dans le cadre de ma formation, j'ai réalisé une analyse approfondie d'un portefeuille client pour une compagnie d'assurance. L'enjeu majeur était de comprendre pourquoi certains clients étaient insatisfaits et de quantifier le risque financier associé.
 
-🚀 Problématique Business
+🚀 Problématique Business 
 
 Comment identifier les segments de clients à risque et quelles actions prioritaires mener pour stabiliser le chiffre d'affaires ?
 
