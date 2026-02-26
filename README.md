@@ -1,4 +1,4 @@
-1. Ton profil général
+1. Profil
 
 
 👋 Moi c'est Arlette Vanessa TCHAMKO-TCHIAKO, Étudiante en Gestion Marketing et aspirante Data Analyst
